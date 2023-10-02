@@ -1,4 +1,4 @@
-(最新更新日 : 2023年9月30日)
+(最新更新日 : 2023年10月2日)
 
 ## 得意分野
 <table>
@@ -17,10 +17,11 @@ Flutter を用いてモバイルアプリの開発、リリースを一通り経
 
 開発歴、Flutter歴は1年半程度。
 
-Github アカウント : https://github.com/fen0268
+[Github アカウント](https://github.com/fen0268)
 
+[X アカウント](https://twitter.com/fencer0268)
 
-Zenn アカウント : https://zenn.dev/fen 
+[Zenn アカウント](https://zenn.dev/fen)
 
 ## スキルシート
 
@@ -44,5 +45,17 @@ Zenn アカウント : https://zenn.dev/fen
 - 2022年6月 - 2022年9月（株式会社プロシーズ）
 
 ■ 備考
-- SNS の投稿機能や Like 機能、 Firebase の全文検索の実装
+- 主に SNS の投稿機能や Like 機能、 Firebase の全文検索の実装
 
+
+## 参加したイベント
+
+### [東京Flutterハッカソン](https://twitter.com/TYOFlutterHack)
+■ 期間
+- 2023年9月30日 ~ 2023年10月1日
+
+■ 開発技術
+- Flutter, Supabase
+
+■ 備考
+- 私にとって初めてのハッカソンでした。入賞までには至らなかったものの、Flutter開発におけるモチベーションを高めることができました。
