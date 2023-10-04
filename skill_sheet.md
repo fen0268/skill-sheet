@@ -1,4 +1,4 @@
-(最新更新日 : 2023年10月3日)
+(最新更新日 : 2023年10月4日)
 
 ## 得意分野
 <table>
@@ -50,17 +50,6 @@ Flutter を用いてモバイルアプリの開発、リリースを一通り経
 
 ## 参加したイベント
 
-### [福岡.dart](https://flutteruniv.connpass.com/event/275584/)
-
-■ 開催日
-- 2023年3月21日
-
-■ 登壇内容
-- 私が作成した [lutter_reflective_screensaver](https://pub.dev/packages/flutter_reflective_screensaver) というパッケージの紹介。
-
-■ 備考
-- 私が所属する [Flutter大学](https://flutteruniv.com/) の外部勉強会での登壇でした。
-
 ### [東京Flutterハッカソン](https://twitter.com/TYOFlutterHack)
 ■ 開催日
 - 2023年9月30日 ~ 2023年10月1日
@@ -69,7 +58,16 @@ Flutter を用いてモバイルアプリの開発、リリースを一通り経
 - Flutter, Supabase
 
 ■ 備考
-- Supabase を用いた auth の実装やゲームスコアによるランキングを実装しました。
+- Supabase を用いた Auth の実装や、ゲームスコアのランキング画面の実装、UI の調整をしました。
 - 入賞には至らなかったものの、Flutter開発におけるモチベーションを高めることができました。
 
+### [Civictech Challenge Cup U22 2023](https://ccc.code4japan.org/)
+■ 開催日
+- 2023年7月 ~ 2023年10月
+
+■ 使用技術
+- Flutter, Firebase
+
+■ 備考
+- 現在、開催中ということでイベントが終了次第、コメントを書きます。
 
