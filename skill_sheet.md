@@ -36,21 +36,21 @@ Flutter を用いてモバイルアプリの開発、リリースを一通り経
 
 ## 職務経歴
 
-### 企業向け企業情報管理モバイル開発
+### 企業向けモバイル開発
 
 ■ 使用技術
 - Flutter, Firebase
 
-■ 開発時期（在籍企業）
+■ 開発期間（在籍企業）
 - 2022年6月 - 2022年9月（株式会社プロシーズ）
 
 ■ 備考
-- 主に SNS の投稿機能や Like 機能、 Firebase の全文検索の実装
+- 主に SNS の投稿機能や Like 機能、 有料の API を用いず全文検索の実装
 
 
-## 参加したイベント
+## 職務以外の活動
 
-### [東京Flutterハッカソン](https://twitter.com/TYOFlutterHack)
+### [東京Flutterハッカソン での開発](https://twitter.com/TYOFlutterHack)
 ■ 開催日
 - 2023年9月30日 ~ 2023年10月1日
 
@@ -61,8 +61,8 @@ Flutter を用いてモバイルアプリの開発、リリースを一通り経
 - Supabase を用いた Auth の実装や、ゲームスコアのランキング画面の実装、UI の調整をしました。
 - 入賞には至らなかったものの、Flutter開発におけるモチベーションを高めることができました。
 
-### [Civictech Challenge Cup U22 2023](https://ccc.code4japan.org/)
-■ 開催日
+### [Civictech Challenge Cup U22 2023 での開発](https://ccc.code4japan.org/)
+■ 開催期間
 - 2023年7月 ~ 2023年10月
 
 ■ 使用技術
@@ -71,7 +71,7 @@ Flutter を用いてモバイルアプリの開発、リリースを一通り経
 ■ 備考
 - 現在、開催中ということでイベントが終了次第、コメントを書きます。
 
-### [福岡.dart](https://flutteruniv.connpass.com/event/275584/)
+### [福岡.dart での登壇](https://flutteruniv.connpass.com/event/275584/)
 ■ 開催日
 - 2023年3月21日
 
@@ -80,8 +80,8 @@ Flutter を用いてモバイルアプリの開発、リリースを一通り経
   - [flutter_reflective_screensaver](https://pub.dev/packages/flutter_reflective_screensaver)
   - Animation を用いず、Positioned を用いて、画面を反射するアニメーションを実装するパッケージです。 機能の追加を現在も続けております。
 
-### [Flutter大学 共同開発 8](https://flutteruniv.com/)
-■ 開催日
+### [Flutter大学 共同開発 8 での開発](https://flutteruniv.com/)
+■ 開催期間
 - 2022年4月 ~ 2022年6月
 
 ■ 使用技術
