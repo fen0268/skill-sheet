@@ -78,8 +78,7 @@ Flutter を用いてモバイルアプリの開発、リリースを一通り経
 ■ 登壇内容
 - パッケージ作成、内容の紹介
   - [flutter_reflective_screensaver](https://pub.dev/packages/flutter_reflective_screensaver)
-  - Animation を用いず、Positioned を用いて、画面を反射するアニメーションを実装するパッケージです。
-  - コメントや機能の追加を現在も続けております。
+  - Animation を用いず、Positioned を用いて、画面を反射するアニメーションを実装するパッケージです。 機能の追加を現在も続けております。
 
 ### [Flutter大学 共同開発 8](https://flutteruniv.com/)
 ■ 開催日
