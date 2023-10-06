@@ -1,4 +1,4 @@
-(最新更新日 : 2023年10月4日)
+(最新更新日 : 2023年10月6日)
 
 ## 得意分野
 <table>
@@ -70,4 +70,26 @@ Flutter を用いてモバイルアプリの開発、リリースを一通り経
 
 ■ 備考
 - 現在、開催中ということでイベントが終了次第、コメントを書きます。
+
+### [福岡.dart](https://flutteruniv.connpass.com/event/275584/)
+■ 開催日
+- 2023年3月21日
+
+■ 登壇内容
+- パッケージ作成、内容の紹介
+  - [flutter_reflective_screensaver](https://pub.dev/packages/flutter_reflective_screensaver)
+  - Animation を用いず、Positioned を用いて、画面を反射するアニメーションを実装するパッケージです。
+  - コメントや機能の追加を現在も続けております。
+
+### [Flutter大学 共同開発 8](https://flutteruniv.com/)
+■ 開催日
+- 2022年4月 ~ 2022年6月
+
+■ 使用技術
+- Flutter
+
+■ 備考
+- Flutter大学の共同開発に参加し、Android アプリをリリースしました。
+  - [お小遣い管理マネマネ](https://play.google.com/store/apps/details?id=com.gmail.fenc0268.okodukai.manemane)
+- このアプリは、Flutter大学の共同開発の中で、Flutter の基礎を学びながら、アプリをリリースするという目標を達成することができました。
 
